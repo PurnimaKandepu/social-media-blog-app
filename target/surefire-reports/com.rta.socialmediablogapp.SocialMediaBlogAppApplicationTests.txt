@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rta.socialmediablogapp.SocialMediaBlogAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.042 s -- in com.rta.socialmediablogapp.SocialMediaBlogAppApplicationTests
