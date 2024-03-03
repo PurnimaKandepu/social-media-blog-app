@@ -1,8 +1,8 @@
-C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app\src\main\java\com\rta\socialmediablogapp\SocialMediaBlogAppApplication.java
-C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app\src\main\java\com\rta\socialmediablogapp\repository\PostRepoitory.java
-C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app\src\main\java\com\rta\socialmediablogapp\service\PostService.java
-C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app\src\main\java\com\rta\socialmediablogapp\service\PostServiceImpl.java
-C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app\src\main\java\com\rta\socialmediablogapp\dto\PostDto.java
-C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app\src\main\java\com\rta\socialmediablogapp\controller\PostController.java
-C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app\src\main\java\com\rta\socialmediablogapp\exception\ResouceNotFoundException.java
-C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app\src\main\java\com\rta\socialmediablogapp\entity\Post.java
+C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app2\src\main\java\com\rta\socialmediablogapp\controller\PostController.java
+C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app2\src\main\java\com\rta\socialmediablogapp\entity\Post.java
+C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app2\src\main\java\com\rta\socialmediablogapp\exception\ResouceNotFoundException.java
+C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app2\src\main\java\com\rta\socialmediablogapp\dto\PostDto.java
+C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app2\src\main\java\com\rta\socialmediablogapp\repository\PostRepoitory.java
+C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app2\src\main\java\com\rta\socialmediablogapp\service\PostServiceImpl.java
+C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app2\src\main\java\com\rta\socialmediablogapp\SocialMediaBlogAppApplication.java
+C:\Users\punik\Desktop\puni\Job\Training\SocialMediaApp\social-media-blog-app2\src\main\java\com\rta\socialmediablogapp\service\PostService.java
