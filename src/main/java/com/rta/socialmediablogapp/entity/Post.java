@@ -3,6 +3,9 @@ package com.rta.socialmediablogapp.entity;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.util.HashSet;
+import java.util.Set;
+
 
 @Entity
 @Table (name="Posts")
@@ -23,4 +26,7 @@ public class Post {
 
     @Column
     private String content;
+
+    @OneToMany(mappedBy = "post",cascade = CascadeType.ALL,orphanRemoval = true)
+    private Set<Comments> comments = new HashSet<>();
 }
